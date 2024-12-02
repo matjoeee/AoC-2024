@@ -62,4 +62,4 @@ poetry.toml
 *.env.*
 
 # Personal
-ToDo.txt
+Todo.txt
