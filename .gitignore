@@ -1,0 +1,65 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode settings
+.vscode/
+
+# Test result logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python notebooks
+*.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+*.cover
+*.coverage
+*.cov
+*.gcov
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Package manager files
+Pipfile
+Pipfile.lock
+poetry.lock
+poetry.toml
+
+# IDE files
+.idea/
+*.iml
+
+# Local development files
+*.env
+*.env.*
+
+# Personal
+ToDo.txt
