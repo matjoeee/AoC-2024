@@ -1,5 +1,5 @@
 """ 
-First part of the Advent of Code exercise
+Second part of the Advent of Code exercise
 
 Day 2 --> https://adventofcode.com/2024/day/2#part2
 
