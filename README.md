@@ -1,12 +1,12 @@
 # AoC-2024
 
-Advent of Code solutions
+Advent of Code solutions (as long as I feel like making them).
 
 ## List
 
 - [x] Day 1
 - [x] Day 2
-- [ ] Day 3
+- [x] Day 3
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
