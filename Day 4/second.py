@@ -58,12 +58,3 @@ for row in grid:
 # Count the X-MAS patterns
 count = countPatterns(grid)
 print(f"Number of X-MAS patterns: {count}")
-
-
-
-
-
-
-
-
-
